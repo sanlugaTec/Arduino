@@ -1,3 +1,7 @@
+###Configuración HC06 Arduino Leonardo 
+
+####Inline code
+
 /* Programa de configuración del BlueTooth HC-06 */
 #include <SoftwareSerial.h>
 SoftwareSerial blue(8, 9);   //Crea conexion al bluetooth - TX y RX
